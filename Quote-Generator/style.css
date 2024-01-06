@@ -30,7 +30,7 @@ body{
     position: relative;
 }
 
-.quote-box h2{
+.quote-box h2::after{
     content: '';
     width: 75px;
     height: 3px;
